@@ -9,7 +9,7 @@ An ehentai automatic upload organization and grouping helper that simplifies rep
 
 ## Why use this
 
-2.1.If you use the original upload function, you will face the limitation (“The total size of one upload should not exceed 500 MB”). However, image originals are becoming larger and larger nowadays. When a single image can already reach 20~30 MB, uploading only 10 images at a time and waiting repeatedly dozens of times in a gallery containing hundreds of images starts to feel pretty stupid.
+2.1.If you use the original upload function, you will face the limitation (“The total size of one upload should not exceed 500 MB”). However, image originals are becoming larger and larger nowadays. When a single image can already reach 20~30 MB, uploading only 10 images at a time and waiting repeatedly dozens of times in a gallery containing hundreds of images starts to feel pretty antihuman.
 
 2.2 If you upload 100 images at once and wait until the upload progress bar reaches 99%, but the last image exceeds the official size or resolution limit (“Images: JPG and WebP < 20 MB, PNG < 50 MB, GIF < 10 MB; Archives: ZIP. Maximum resolution: 20000 x 20000.”), bang! All the upload time and waiting you spent will be completely wasted.
 
